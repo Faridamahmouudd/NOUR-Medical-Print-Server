@@ -1,0 +1,11 @@
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\bin\Debug\net8.0\MedicalPrintServer.Domain.deps.json
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\bin\Debug\net8.0\MedicalPrintServer.Domain.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\bin\Debug\net8.0\MedicalPrintServer.Domain.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.AssemblyInfoInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.AssemblyInfo.cs
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.csproj.CoreCompileInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\refint\MedicalPrintServer.Domain.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\ref\MedicalPrintServer.Domain.dll

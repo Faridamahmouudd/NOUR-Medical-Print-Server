@@ -1,0 +1,15 @@
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\bin\Debug\net8.0\MedicalPrintServer.Application.deps.json
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\bin\Debug\net8.0\MedicalPrintServer.Application.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\bin\Debug\net8.0\MedicalPrintServer.Application.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\bin\Debug\net8.0\MedicalPrintServer.Domain.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\bin\Debug\net8.0\MedicalPrintServer.Domain.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.csproj.AssemblyReference.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.AssemblyInfoInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.AssemblyInfo.cs
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.csproj.CoreCompileInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalP.6DF7D903.Up2Date
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\refint\MedicalPrintServer.Application.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\ref\MedicalPrintServer.Application.dll

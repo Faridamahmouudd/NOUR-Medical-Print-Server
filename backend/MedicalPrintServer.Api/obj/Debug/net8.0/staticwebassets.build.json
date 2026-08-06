@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BYgPLkA6zaG2WNQpJKbaR0rvQUfcAqUnM37Y20Uo2D4=",
+  "Source": "MedicalPrintServer.Api",
+  "BasePath": "_content/MedicalPrintServer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

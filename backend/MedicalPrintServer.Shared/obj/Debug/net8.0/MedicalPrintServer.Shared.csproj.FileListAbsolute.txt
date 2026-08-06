@@ -1,0 +1,11 @@
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\bin\Debug\net8.0\MedicalPrintServer.Shared.deps.json
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\bin\Debug\net8.0\MedicalPrintServer.Shared.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\bin\Debug\net8.0\MedicalPrintServer.Shared.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.AssemblyInfoInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.AssemblyInfo.cs
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.csproj.CoreCompileInputs.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\refint\MedicalPrintServer.Shared.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.pdb
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\ref\MedicalPrintServer.Shared.dll

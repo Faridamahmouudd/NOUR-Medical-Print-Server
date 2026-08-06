@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPrintServer.Api", "MedicalPrintServer.Api\MedicalPrintServer.Api.csproj", "{C1D3069B-76AF-45BA-B9E3-3BC697CD0F3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPrintServer.Domain", "MedicalPrintServer.Domain\MedicalPrintServer.Domain.csproj", "{A08EA22C-033C-498E-AF4F-245825F389EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPrintServer.Application", "MedicalPrintServer.Application\MedicalPrintServer.Application.csproj", "{3BBAA1A0-4E50-481E-B29E-8D9A5B49D0A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPrintServer.Infrastructure", "MedicalPrintServer.Infrastructure\MedicalPrintServer.Infrastructure.csproj", "{EA644AD1-2C2F-4D3D-B217-250FAA1CCA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalPrintServer.Shared", "MedicalPrintServer.Shared\MedicalPrintServer.Shared.csproj", "{2A98F6BC-E3DA-42C7-9478-8C80A4A19015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D3069B-76AF-45BA-B9E3-3BC697CD0F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D3069B-76AF-45BA-B9E3-3BC697CD0F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D3069B-76AF-45BA-B9E3-3BC697CD0F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D3069B-76AF-45BA-B9E3-3BC697CD0F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08EA22C-033C-498E-AF4F-245825F389EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08EA22C-033C-498E-AF4F-245825F389EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08EA22C-033C-498E-AF4F-245825F389EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08EA22C-033C-498E-AF4F-245825F389EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BBAA1A0-4E50-481E-B29E-8D9A5B49D0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBAA1A0-4E50-481E-B29E-8D9A5B49D0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BBAA1A0-4E50-481E-B29E-8D9A5B49D0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBAA1A0-4E50-481E-B29E-8D9A5B49D0A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA644AD1-2C2F-4D3D-B217-250FAA1CCA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA644AD1-2C2F-4D3D-B217-250FAA1CCA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA644AD1-2C2F-4D3D-B217-250FAA1CCA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA644AD1-2C2F-4D3D-B217-250FAA1CCA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A98F6BC-E3DA-42C7-9478-8C80A4A19015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A98F6BC-E3DA-42C7-9478-8C80A4A19015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A98F6BC-E3DA-42C7-9478-8C80A4A19015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A98F6BC-E3DA-42C7-9478-8C80A4A19015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
