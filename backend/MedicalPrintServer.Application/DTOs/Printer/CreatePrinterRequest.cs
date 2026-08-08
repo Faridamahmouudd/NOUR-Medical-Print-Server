@@ -1,5 +1,4 @@
-namespace MedicalPrintServer.Application.DTOs.Printers;
-
+namespace MedicalPrintServer.Application.DTOs.Printer;
 public sealed class CreatePrinterRequest
 {
     public string Name { get; set; } = string.Empty;

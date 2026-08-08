@@ -13,3 +13,4 @@ C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\Me
 C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\refint\MedicalPrintServer.Application.dll
 C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.pdb
 C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\ref\MedicalPrintServer.Application.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Application\obj\Debug\net8.0\MedicalPrintServer.Application.sourcelink.json

@@ -1,4 +1,4 @@
-using MedicalPrintServer.Application.DTOs.Printers;
+using MedicalPrintServer.Application.DTOs.Printer;
 
 namespace MedicalPrintServer.Application.Contracts.Services;
 

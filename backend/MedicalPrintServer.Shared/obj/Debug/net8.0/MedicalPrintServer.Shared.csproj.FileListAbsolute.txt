@@ -9,3 +9,4 @@ C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\Medical
 C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\refint\MedicalPrintServer.Shared.dll
 C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.pdb
 C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\ref\MedicalPrintServer.Shared.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Shared\obj\Debug\net8.0\MedicalPrintServer.Shared.sourcelink.json

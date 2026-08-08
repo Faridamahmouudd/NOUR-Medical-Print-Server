@@ -9,3 +9,4 @@ C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\Medical
 C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\refint\MedicalPrintServer.Domain.dll
 C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.pdb
 C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\ref\MedicalPrintServer.Domain.dll
+C:\MedicalPrintServer\backend\MedicalPrintServer.Domain\obj\Debug\net8.0\MedicalPrintServer.Domain.sourcelink.json

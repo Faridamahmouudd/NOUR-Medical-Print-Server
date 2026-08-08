@@ -63,6 +63,14 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "fo-dicom": {
+              "target": "Package",
+              "version": "[5.2.5, )"
+            },
+            "fo-dicom.Imaging.ImageSharp": {
+              "target": "Package",
+              "version": "[5.2.5, )"
             }
           },
           "imports": [
@@ -263,6 +271,18 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.22, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "fo-dicom": {
+              "target": "Package",
+              "version": "[5.2.5, )"
             }
           },
           "imports": [

@@ -1,5 +1,4 @@
-namespace MedicalPrintServer.Application.DTOs.Printers;
-
+namespace MedicalPrintServer.Application.DTOs.Printer;
 public sealed class PrinterResponse
 {
     public Guid Id { get; set; }

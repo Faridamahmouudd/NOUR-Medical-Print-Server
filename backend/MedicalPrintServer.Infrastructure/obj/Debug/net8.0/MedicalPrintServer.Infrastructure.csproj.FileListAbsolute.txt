@@ -17,3 +17,4 @@ C:\MedicalPrintServer\backend\MedicalPrintServer.Infrastructure\obj\Debug\net8.0
 C:\MedicalPrintServer\backend\MedicalPrintServer.Infrastructure\obj\Debug\net8.0\ref\MedicalPrintServer.Infrastructure.dll
 C:\MedicalPrintServer\backend\MedicalPrintServer.Infrastructure\bin\Debug\net8.0\MedicalPrintServer.Infrastructure.runtimeconfig.json
 C:\MedicalPrintServer\backend\MedicalPrintServer.Infrastructure\obj\Debug\net8.0\MedicalPrintServer.Infrastructure.genruntimeconfig.cache
+C:\MedicalPrintServer\backend\MedicalPrintServer.Infrastructure\obj\Debug\net8.0\MedicalPrintServer.Infrastructure.sourcelink.json
